@@ -1,0 +1,12 @@
+{
+    "title": "Real-Time Tracking App",
+    "version": "1.0.0",
+    "description": "An application for real-time tracking using Leaflet and Socket.IO",
+    "author": "Your Name",
+    "email": "yourname@example.com",
+    "createdAt": "2024-07-15",
+    "settings": {
+        "theme": "light",
+        "language": "en"
+    }
+}
